@@ -1,0 +1,6 @@
+{
+  "name": "RailResQ - Ahmedabad Metro Operations",
+  "description": "Predictive asset failure risk analysis, night-shift maintenance roster planning, and incident response for Ahmedabad Metro operations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
